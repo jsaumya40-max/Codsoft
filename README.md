@@ -1,3 +1,3 @@
 # Codsoft
 C++
-This project is basically Summer intership of 1 month.
+This project is basically Summer internship of 1 month.
